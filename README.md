@@ -24,7 +24,7 @@
 |10주차|05/14|파머완 6장|2팀|[📚](https://github.com/Ewha-Euron/6th-Novice/blob/673db12b19bf0a967802a6fbc619d5ba7b19f475/Week10_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)|
 |11주차|05/21|파머완 7장|3팀|[📚](https://github.com/Ewha-Euron/6th-Novice/blob/c84a9e8e0d1ef90194f5b0bcdb8d0ed228b540b1/11%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C(%EC%88%98%EC%A0%95).pdf)|
 |12주차|05/28|파머완 8장 - Part 1(8.1 ~ 8.3, 8.5장)|1팀|[📚](https://github.com/Ewha-Euron/6th-Novice/blob/cff54780a82d56d357c96e70d387fac8cde631fa/Week12_%EC%B4%88%EA%B8%89%201%ED%8C%80%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)|
-|13주차|06/04|파머완 8장 - Part 2(8.6 ~ 8.9장)|2팀|[📚]()|
+|13주차|06/04|파머완 8장 - Part 2(8.6 ~ 8.9장)|2팀|[📚](https://github.com/Ewha-Euron/6th-Novice/blob/5ffecc0f8f51d16d4ea397b2956a58b6f35c6c1b/Week%2015_%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)|
 |14주차|06/11|기말고사 휴식기간 - 1|||
 |15주차|06/18|기말고사 휴식기간 - 2|||
 |16주차|06/25|파머완 9장 + **아이데이션**|3팀|[📚]()|
